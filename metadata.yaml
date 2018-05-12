@@ -1,0 +1,35 @@
+_repo: The-Peacock-At-Home-AND-The-Butterfly-s-Ball-AND-The-Fancy-Fair_23665
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Roscoe, William
+    birthdate: 1753
+    deathdate: 1831
+    gutenberg_agent_id: '25974'
+    url: http://www.gutenberg.org/2009/agents/25974
+  - agent_name: Dorset, Catherine Ann Turner
+    birthdate: 1749
+    deathdate: 1816
+    gutenberg_agent_id: '25786'
+    url: http://www.gutenberg.org/2009/agents/25786
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2007-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile poetry'
+- !lcsh 'Insects -- Juvenile poetry'
+- !lcsh 'Birds -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Zoo animals -- Juvenile poetry'
+title: The Peacock 'At Home' AND The Butterfly's Ball AND The Fancy Fair
+url: http://www.gutenberg.org/ebooks/23665
